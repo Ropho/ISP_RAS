@@ -12,12 +12,12 @@
 
     run **.\main.exe server (or client)**
 
-### Program enters either **server** regime or **client** regime based on what you specify in a command line.
+## Program enters either **server** regime or **client** regime based on what you specify in a command line.
 
-## Server regime
+### Server regime
 
 Program is in a loop infinitely waiting for clients. When a client is connected it prints out the message.
 
-## Client regime
+### Client regime
 
 Connects to a server and sends a simple message to test the work of the server.
